@@ -22,7 +22,5 @@ To start the application, run the following command:
 streamlit run app.py
 ```
 
-## License
 
-The Recipe Generation Project is licensed under the MIT License.
 
